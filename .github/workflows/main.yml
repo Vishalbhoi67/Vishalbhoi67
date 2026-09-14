@@ -1,0 +1,33 @@
+name: Generate Contribution Jet SVG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Jet SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-jet.svg?color_snake=00f0ff&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+
+      - name: Commit and Push SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Action
+          author_email: action@github.com
+          message: "Update Jet Heatmap SVG"
+          add: "dist/github-jet.svg"
