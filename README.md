@@ -14,13 +14,6 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalbhoi67&theme=dark&background=0d1117&border=00f0ff&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakNum=00f0ff&currStreakLabel=00f0ff&sideNums=ffffff&sideLabels=00f0ff&dates=8b949e" alt="Streak Stats" width="480">
-</div>
-
----
-
-<div align="center">
-  <h3>✈️ Contribution Heatmap</h3>
-  <img src="./dist/github-jet.svg" alt="Contribution Heatmap" width="100%">
+  <h3>📈 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalbhoi67&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%">
 </div>
