@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vishalbhoi67/Vishalbhoi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Vishal Bhoi 👋
+### MCA Student & Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
++-----------------------------------------------------------------------+
+| SYSTEM.INFO                                                           |
+| Subject     : Vishal Ratan Bhoi                                       |
+| Role        : Software Developer / MCA Student                        |
+| Location    : Maharashtra, India                                      |
+| ToolChain   : VS Code, Visual Studio, Git, Firebase                   |
+|                                                                       |
+| Core Lang   : Python, C++, Java, JavaScript, SQL                        |
+| Web & Tech  : HTML, CSS, JavaScript, React, Node.js                   |
++-----------------------------------------------------------------------+
