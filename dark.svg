@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
+<defs>
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE">
+      <animate attributeName="stop-color" values="#22D3EE;#7C3AED;#38BDF8;#22D3EE" dur="9s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#7C3AED">
+      <animate attributeName="stop-color" values="#7C3AED;#38BDF8;#22D3EE;#7C3AED" dur="9s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#10B981"/>
+  </linearGradient>
+  <radialGradient id="bgGlow" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#0B1120"/>
+    <stop offset="100%" stop-color="#050816"/>
+  </radialGradient>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+  <rect width="4" height="1" fill="#7DD3FC" opacity="0.05"/>
+</pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+  <mask id="revealMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="620">
+  <rect x="0" y="0" width="1180" height="0" fill="#fff">
+    <animate attributeName="height" from="0" to="560" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+</mask>
+  <clipPath id="lc0"><rect x="500" y="26.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.75s" fill="freeze"/></rect></clipPath><clipPath id="lc1"><rect x="500" y="50.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.86s" fill="freeze"/></rect></clipPath><clipPath id="lc2"><rect x="500" y="72.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="0.98s" fill="freeze"/></rect></clipPath><clipPath id="lc3"><rect x="500" y="94.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.09s" fill="freeze"/></rect></clipPath><clipPath id="lc4"><rect x="500" y="116.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.21s" fill="freeze"/></rect></clipPath><clipPath id="lc5"><rect x="500" y="138.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.32s" fill="freeze"/></rect></clipPath><clipPath id="lc6"><rect x="500" y="160.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.44s" fill="freeze"/></rect></clipPath><clipPath id="lc7"><rect x="500" y="182.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.55s" fill="freeze"/></rect></clipPath><clipPath id="lc8"><rect x="500" y="204.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.67s" fill="freeze"/></rect></clipPath><clipPath id="lc9"><rect x="500" y="226.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.78s" fill="freeze"/></rect></clipPath><clipPath id="lc10"><rect x="500" y="248.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="1.90s" fill="freeze"/></rect></clipPath><clipPath id="lc11"><rect x="500" y="270.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.02s" fill="freeze"/></rect></clipPath><clipPath id="lc12"><rect x="500" y="292.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.13s" fill="freeze"/></rect></clipPath><clipPath id="lc13"><rect x="500" y="314.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.25s" fill="freeze"/></rect></clipPath><clipPath id="lc14"><rect x="500" y="336.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.36s" fill="freeze"/></rect></clipPath><clipPath id="lc15"><rect x="500" y="358.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.48s" fill="freeze"/></rect></clipPath><clipPath id="lc16"><rect x="500" y="380.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.59s" fill="freeze"/></rect></clipPath><clipPath id="lc17"><rect x="500" y="402.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.71s" fill="freeze"/></rect></clipPath><clipPath id="lc18"><rect x="500" y="424.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath><clipPath id="lc19"><rect x="500" y="446.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath><clipPath id="lc20"><rect x="500" y="468.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath><clipPath id="lc21"><rect x="500" y="490.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
+  <style>
+    .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 7.4px; fill: url(#asciiGrad); letter-spacing: -0.2px; }
+    .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #22D3EE; font-weight: bold; }
+    .value  { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #E5E7EB; }
+    .cc     { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #475569; }
+    .head   { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #7C3AED; font-weight: bold; }
+    .accent { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #10B981; font-weight: bold; }
+    text, tspan { white-space: pre; }
+    
+    .term-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: #64748B; letter-spacing: 0.5px; }
+    .scan-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #F87171; letter-spacing: 1px; }
+    .panel-title { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #38BDF8; letter-spacing: 2px; opacity: 0.7; }
+    .cursor-blink { fill: #22D3EE; }
+
+      @keyframes scanlineAnim {
+      0%   { transform: translateY(35px); opacity: 0.55; }
+      50%  { transform: translateY(328px); opacity: 0.55; }
+      100% { transform: translateY(620px); opacity: 0.55; }
+    }
+    .scan-laser {
+      animation: scanlineAnim 5s linear infinite;
+      filter: drop-shadow(0 0 4px #00F0FF) drop-shadow(0 0 8px #00F0FF);
+      opacity: 0.55;
+    }
+</style>
+</defs>
+
+<rect width="1180" height="610" rx="18" fill="url(#bgGlow)"/>
+<rect width="1180" height="610" rx="18" fill="url(#scanlines)"/>
+
+<g id="titlebar">
+  <rect x="3" y="3" width="1174" height="34" rx="16" fill="#0B1120" fill-opacity="0.85"/>
+  <circle cx="24" cy="20" r="5" fill="#EF4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="42" cy="20" r="5" fill="#F59E0B"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="20" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <text x="590" y="25" text-anchor="middle" class="term-label">vishal@devos ~ % ./profile.sh --live</text>
+  <circle cx="1090" cy="20" r="4" fill="#F87171">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1162" y="24" text-anchor="end" class="scan-label">SCANNING</text>
+</g>
+
+<g transform="translate(0,38)">
+  <rect x="14" y="26" width="488" height="468" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <rect x="508" y="10" width="655" height="500" rx="14" fill="#0B1120" fill-opacity="0.35" stroke="url(#borderGrad)" stroke-width="1" opacity="0.35"/>
+  <text x="30" y="24" class="panel-title">VISUAL.MAP</text>
+  <text x="524" y="24" class="panel-title">SYSTEM.INFO</text>
+
+  <g mask="url(#revealMask)">
+  <text x="30" y="0" class="ascii">
+
+<tspan x="69.5" y="69.10" xml:space="preserve">ccccczzzzzXzXXXXXzzzzzzzzzzzzzzzzzcvunnxrrrrjrjjjjjjjjfffft///\\\||||(((()))))))))))))(((</tspan>
+<tspan x="69.5" y="76.65" xml:space="preserve">fjjjjjjjrrrxxxnnnnnuuuuuuvvccvvvvuunnxxrrjjjjjjfffffffttt///\\\\|||((())))))111111111111)</tspan>
+<tspan x="69.5" y="84.20" xml:space="preserve">(((((||||\\\/////tttttttttfjrxxnnnnxxxrrjjjfffffttt//////\\\||||(((()))11111111111{{11111</tspan>
+<tspan x="69.5" y="91.75" xml:space="preserve">|(((((((((((((((((((((())((\/frxxnnxxrrjfftttt/ff////\\\\\\||(((((()11111111111{{{{{{{{{1</tspan>
+<tspan x="69.5" y="99.30" xml:space="preserve">(((((((((((((((())))))1111)|/trnnxjxcCmqqwbkh*okbZUnf\|/\||((((()11111111{{{{{{{}{}}}}}}{</tspan>
+<tspan x="69.5" y="106.85" xml:space="preserve">(((((((((((())))))1)111111(|/fjxLM$$&amp;ooo#o*W&amp;W#*b*hboohmj(|((()111111{{{{{{{{{{{}}}}}}}}}</tspan>
+<tspan x="69.5" y="114.40" xml:space="preserve">(())))((())))1)111111111{1(|\zh@$@@WMoho&amp;BB%8#hh##*o#W8M*bx1()1111{{{{{}}}}}}}}}}}[[[[[[[</tspan>
+<tspan x="69.5" y="121.95" xml:space="preserve">\|||||||((())))11111111{{1|nqM@$$%M*haWB@#ho#8B@8oaM*aM8Wohdj{111{{{}}}}}}}}}}}[[[[[[[[[[</tspan>
+<tspan x="69.5" y="129.50" xml:space="preserve">nxxrrrjjjjffttttt///\\\\|xdMB$@@%&amp;*o*aoMMWMh&amp;@&amp;a*M#o**MMMMM#*L{11{{}}}}[[[[[[[[[[]]]]]]]]</tspan>
+<tspan x="69.5" y="137.05" xml:space="preserve">JJUUYYYXXXXzccccczzzcvvnYo%$@B$B&amp;W8@8Wo**%MWWM#oh&amp;%%&amp;hpbhb#8#M&amp;j}{{}}[[[[[[[[]]]]]]]]]]]]</tspan>
+<tspan x="69.5" y="144.60" xml:space="preserve">JJJJJJJJJJJUYYJCLQZmZ0LOa88B@$@%B$$$$@$BB8MW$Mw*@%oqbM88%88&amp;o&amp;&amp;Wx[{}[[[]]]]]]]]]]]]]]]]]]</tspan>
+<tspan x="69.5" y="152.15" xml:space="preserve">UUUUUUUUYYYYYUJL0ZmwmOQp8$$$$@@@$@$$$$$$$$$$%b&amp;8dh**W8obbM8&amp;8%8#O{}}[[]]]]]]]]]]????????]</tspan>
+<tspan x="69.5" y="159.70" xml:space="preserve">YYYYYYYYYYYYYYUJCQQQLLJp$@@@@$@$$$$$@$$$$$$$$$@@@&amp;WMdaMWWW8@%Wo*k/}}[[]]]]]]]]]?????-????</tspan>
+<tspan x="69.5" y="167.25" xml:space="preserve">YYYYYYYYYYYXXXXXXXXXzXXqBB@@$%W8W*ohpbW$$$$$$$$$$$%hpbkMB$%W&amp;obWw[[[[]]]]]]???????------?</tspan>
+<tspan x="69.5" y="174.80" xml:space="preserve">XXXXXXXXXXXXXXzXzzzzzzXLWBB@kLCLQLUzuxjjjUW@$$$$$$$8W&amp;BB@@W#&amp;%@8x]}[]]]]???--?-----------</tspan>
+<tspan x="69.5" y="182.35" xml:space="preserve">cczcczzzzzzzzzccccvvcccvh$%duzJJUYcnf({[?-+]fzJXf1{)/ftfjffrZWo*j][]]]]???---------------</tspan>
+<tspan x="69.5" y="189.90" xml:space="preserve">vvvvvvvvvvvvvvvuunnuuuvnL$WXxcJJCcjf|(){-_+-?]-+&gt;~~~~~-{((\|rd%p[[]]]]???----------------</tspan>
+<tspan x="69.5" y="197.45" xml:space="preserve">_iIIl!!iii&gt;&gt;&lt;_[(trrrxnnuC8hnvuJb*M%@%Wa0v/\|(\fuU0Z0LYXc/{(|(Q%X-]]]]???----------_-_----</tspan>
+<tspan x="69.5" y="205.00" xml:space="preserve">l:,&quot;&quot;&quot;&quot;&quot;^&quot;&quot;:li~-}(ttfjjQk%pncLqddmUUZaakbmJvxxvYQ0mQvnvxnc\((Cd{/[????-----------_______-</tspan>
+<tspan x="69.5" y="212.55" xml:space="preserve">;,&quot;&quot;&quot;^^^^^&quot;:I!&lt;_[)\|\ttQqkmxXmpbkOB%0fdpqOx?i?1fXZJ%WdvpLj|)1Ux)1?]??-----------_________</tspan>
+<tspan x="69.5" y="220.10" xml:space="preserve">iiii!llII;;I!&lt;-[1111)|/Uh8LxzXYUQQJYux|nCUt[-?][}/vvf\j|[[]{{cc1}??------________________</tspan>
+<tspan x="69.5" y="227.65" xml:space="preserve">{{{{}}}}}}}}}[[[}[[[})(J&amp;%Jxcuxt\||(|/jcvx\-+]--_+]]_&lt;&lt;&lt;~+-}1x/{}?-------________________</tspan>
+<tspan x="69.5" y="235.20" xml:space="preserve">[[[]]]]]]]]]]]]]]]]]]{1Q*WQnuux/((((|\uUur(_~-][-~&lt;&lt;~~&gt;&gt;&lt;+?[)n([{-----___________________</tspan>
+<tspan x="69.5" y="242.75" xml:space="preserve">]]]???--------------?[}umhQvzzuxj/(|/jLznj)&lt;i][}{?+~&gt;&gt;&gt;~+-[}(1}{]------__________________</tspan>
+<tspan x="69.5" y="250.30" xml:space="preserve">??------____+________[}(QwYYCJUYzjt/jYmJ*WUttdZ|]_]?-+_-?[})|[???-----___________++__+++_</tspan>
+<tspan x="69.5" y="257.85" xml:space="preserve">------__++++++++++++_?[1|nucJLCUcuxnuvY0mqqJf()]_~_??]]]}{)((1]------__________+____++++_</tspan>
+<tspan x="69.5" y="265.40" xml:space="preserve">----___+++~~~~~~~~~~+-[{(\tuYLQCJUXLwpo&amp;W*qw*qkOYYv)]{{{{)1({--------_________+++++++++++</tspan>
+<tspan x="69.5" y="272.95" xml:space="preserve">-_____+++~~~~~~~~~~~+-[{)|\xYJQQQLk@$B&amp;*dmmJvvXQd8Baf1(111)|]-------__________+++++++++++</tspan>
+<tspan x="69.5" y="280.50" xml:space="preserve">_____+++~~~~~~~~&lt;~~~+-[{)|\tYCQLLLQUJOOmqppqd0vt1])t(11))1|)--------________++++++++++++_</tspan>
+<tspan x="69.5" y="288.05" xml:space="preserve">-___+++~~~~~~~~&lt;&lt;~~~+-[{)|/(xOQ0OOLUYznj|){-~&lt;_-?}{1(()(|/\?-------___________++++++++++_</tspan>
+<tspan x="69.5" y="295.60" xml:space="preserve">-____+++~~~~~~~~~~~~+-]{)|\\)fZZmZQJXcuxjf\t/{]]]}{)(|/tj\-?------__________++++++++++++_</tspan>
+<tspan x="69.5" y="303.15" xml:space="preserve">-_____+++~~~~~~~~~~~+-]{)|\|(|(uOZwZZZOQUXvUJcuxjtfjrjjr/]--------_________++++++++++++++</tspan>
+<tspan x="69.5" y="310.70" xml:space="preserve">--_____+++~~~~~~~~~~_-]{)|\|((((JOO0OOZwwwwwqqwmOQLJJXj\(l_?-------________+++++++++++++_</tspan>
+<tspan x="69.5" y="318.25" xml:space="preserve">----____++++~~~+~+++_-[{)|\|((|b0Qmmmwpko***ohkpmQYnt\|)vJ:?------__________++++++++++++_</tspan>
+<tspan x="69.5" y="325.80" xml:space="preserve">-----____+++++++++++_?[{)|\|()Y8oQZwmOOZwwOLJUzcvrt\()))vdI^??-----__________+++++++++___</tspan>
+<tspan x="69.5" y="333.35" xml:space="preserve">??-----______++_____-?[1(||(1]tmBdmOOO00O0LXnxjt/\(1{1))X0,&#x27;.^;i_---__________+_+++______</tspan>
+<tspan x="69.5" y="340.90" xml:space="preserve">]]??-------_________-][[?]/n-+-f8kmOQLLQQLCYcnjt|{1{{11|Q\&quot;&#x27;..&quot;^\&#x27;`,l~_-________+________</tspan>
+<tspan x="69.5" y="348.45" xml:space="preserve">]]]]]??----------_-__-??[fr];;i_moZLJUUYXcnjt\(((111{1|z\&lt;&quot;&#x27;..\&quot;\&#x27;..\&#x27;\&quot;,!~______________</tspan>
+<tspan x="69.5" y="356.00" xml:space="preserve">{111)1{[[}{{]_~&lt;iii~???-(/[;`;;:|dOLJYzcvcvxjt/|()11)(nu~i\&#x27; &#x27;&#x27;\&#x27;.`&#x27;\^&#x27;&#x27;\\`\&quot;I&gt;_--_______</tspan>
+<tspan x="69.5" y="363.55" xml:space="preserve">|/fjxxf(]~i!i&gt;i~~&lt;~__-_-}-_Q0I^,lJCJJzvnxrrjjt/|){1)(xJ+&lt;I&#x27;\&#x27;.&#x27;.&#x27;.\\.`^&quot;^`\^```\`,I&gt;_-___</tspan>
+<tspan x="69.5" y="371.10" xml:space="preserve">juYX)&gt;!!!II;lIIi!&gt;&gt;~&lt;_?]~]Yqqw?.^{vnXvxft/\\\|({}}{1|z{il`.\&#x27;.&#x27;&#x27;..&#x27;\ .&#x27;```&#x27;&#x27;&#x27;.`\\```^^,!+</tspan>
+<tspan x="69.5" y="378.65" xml:space="preserve">\_&gt;&gt;i!&gt;&gt;!IIlili&gt;&lt;&lt;&lt;_-_~]ucvLQJXOnI?r/\||(11{}[]]??[1x1i!nZf .\&#x27;\\\\`&#x27;``^^^^``\&quot;^^^^^\&#x27;.\`</tspan>
+<tspan x="69.5" y="386.20" xml:space="preserve">!&gt;_&gt;;Iii;:,lI;!l&gt;&gt;&gt;_+~|)|((\jn/vUYj&lt;[1}}{{{}[[]]][)|il&quot;|0LCCf+l,`\`^&#x27;\\``^`\`\^^`^^^\&#x27;&#x27;`^</tspan>
+<tspan x="69.5" y="393.75" xml:space="preserve">ii]+,,I;,&quot;,l:IIli!&gt;+;&quot;I&gt;_&gt;&gt;&gt;?{l_)fx/&lt;&gt;}][}}}}[[{{&gt;\^,,I&gt;_!,,Ill:`.&#x27;`.&#x27;&#x27;```&#x27;&#x27;\&#x27;`^`^^\&#x27;&#x27;&#x27;\\</tspan>
+<tspan x="69.5" y="401.30" xml:space="preserve">iI[]`^&quot;&quot;&quot;^:::;:lll&gt;&gt;`&quot;,!!;::i-Il&gt;-)fr]&lt;}[}}}{]&lt;:?|-+i!:l:`\&#x27;.   . .`.&#x27;&#x27;\`\..&#x27;&#x27;`&quot;``&#x27;\&#x27;. &#x27;.</tspan>
+<tspan x="69.5" y="408.85" xml:space="preserve">I:]},&quot;`^,&quot;:&quot;:,;l!!+I`,;iI:,&quot;!_::,l&lt;?(/?+{{{ii_){i!!IIl:,\`^\&#x27;...&#x27;.&#x27;,`\&#x27;\`&#x27;..&#x27;&#x27;`,^`\&#x27;   ..</tspan>
+<tspan x="69.5" y="416.40" xml:space="preserve">i&gt;)1,,`,:l;:lIiili~`^&quot;Il:,^`I+:,^,:I&gt;+1[[~,^&quot;I:,:,:;;^`^&#x27;\\&#x27;&#x27;...\.\,^``^^&#x27;&#x27;&#x27;``^;^`^&#x27;.&#x27;.`^</tspan>
+<tspan x="69.5" y="423.95" xml:space="preserve">l_\{,^`&quot;I!:I:!i;;~I\::I;,&quot;`&#x27;,i^^&#x27;`^&quot;&quot;,!]&gt;  `^,,,&quot;^```&#x27;&#x27;\.&#x27;\&#x27;&#x27;.&#x27;&#x27;`\`&quot;^^```...\\`&quot;\`^&#x27;&#x27;&#x27;`^&#x27;</tspan>
+<tspan x="69.5" y="431.50" xml:space="preserve">l_j[^``^l!llI;&quot;,l!,^::;:&quot;^``:I``&#x27;\\^^`,i?I^`^^^^\\\\`&#x27;\\&#x27;``\&#x27;...&#x27;..`&#x27;\\\&#x27;  .\\\&quot;&#x27;``&#x27;&#x27;.,&quot;.</tspan>
+<tspan x="69.5" y="439.05" xml:space="preserve">,?r[&quot;`^,i&gt;&gt;;:,:iI;,&quot;&quot;&quot;::&quot;`\\II\`&#x27;````&#x27;^i&gt;l\^^^``&#x27;&#x27;&#x27;\\.`\\\&#x27;&#x27;&#x27;   ...`.&#x27;&#x27;&#x27;&#x27;...\`\^`^&#x27; .\;,`</tspan>
+<tspan x="69.5" y="446.60" xml:space="preserve">~_j],^^I&gt;&gt;;:,Ii;,lII::II;:^&quot;&lt;I,&quot;^,,,,`^^;!;,,:,,```^^\&quot;^^^^^\&#x27;..&#x27;..`&#x27;\&#x27;&#x27;&#x27;.  &#x27;&#x27;.\&#x27;`&#x27;&#x27;&#x27;::``</tspan>
+<tspan x="69.5" y="454.15" xml:space="preserve">:+z{I::&lt;++l!+&lt;;;I!I!IIlI;,&quot;I~:,&quot;^,:I;^&quot;&quot;;&quot;Ii:::,^^`^^`,^&quot;,&quot;&quot;`&#x27;&#x27;&#x27;`\\^`^^^^\&#x27;&#x27;\`&#x27;^,&quot;. `ll\`</tspan>
+<tspan x="69.5" y="461.70" xml:space="preserve">_[c)l;i_&gt;&lt;~z{iII!!;lIllI:,&quot;!&gt;&quot;^\^&quot;,:,`^^,\^i!;:,^^`&quot;`\&quot;`&quot;&quot;^^`&#x27;\&#x27;`\\^`^&quot;&quot;^\\\``\,::&quot;`i!:`:</tspan>
+<tspan x="69.5" y="469.25" xml:space="preserve">_)Ot-l&gt;&gt;-](Wuii&lt;+~!&gt;!i!lI;I&gt;:^&quot;`^,::,`^`&quot;\&quot;i&gt;!lI,,&quot;;,^:&quot;,:,,^``\^^`&quot;`^&quot;&quot;&quot;\&#x27;&#x27;\`,iII&quot;i~iI:I</tspan>
+
+  </text>
+  </g>
+
+  <g clip-path="url(#lc0)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="42" class="head">vishal@devos</tspan><tspan class="cc"> -——————————————————————————————————————————-—-</tspan></text></g><g clip-path="url(#lc1)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="66" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc">: ................ </tspan><tspan class="value">Vishal Bhoi</tspan></text></g><g clip-path="url(#lc2)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="88" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ................... </tspan><tspan class="value">IT Support | Cybersecurity | Web Dev</tspan></text></g><g clip-path="url(#lc3)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Origin</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Jalgaon, Maharashtra, India</tspan></text></g><g clip-path="url(#lc4)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="132" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: .............. </tspan><tspan class="value">MCA (CGPA 9.23) | B.Sc CS</tspan></text></g><g clip-path="url(#lc5)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="154" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc">: .............. </tspan><tspan class="value">VS Code, Git, GitHub, Linux, Firebase</tspan></text></g><g clip-path="url(#lc6)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="176" class="cc">. </tspan></text></g><g clip-path="url(#lc7)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="198" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Lang</tspan><tspan class="cc">: .......... </tspan><tspan class="value">Python, Java, JavaScript, SQL</tspan></text></g><g clip-path="url(#lc8)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="220" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Web</tspan><tspan class="cc">: ........... </tspan><tspan class="value">HTML5, CSS3, JavaScript, Firebase</tspan></text></g><g clip-path="url(#lc9)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="242" class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">DB</tspan><tspan class="cc">: ............. </tspan><tspan class="value">SQL, Firebase Database</tspan></text></g><g clip-path="url(#lc10)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="264" class="cc">. </tspan></text></g><g clip-path="url(#lc11)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="286" class="accent">- Certifications</tspan><tspan class="cc"> -——————————————————————————————————————-—-</tspan></text></g><g clip-path="url(#lc12)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="308" class="cc">. </tspan><tspan class="key">Cert</tspan><tspan class="cc">.</tspan><tspan class="key">01</tspan><tspan class="cc">: .......... </tspan><tspan class="value">Cybersecurity Analyst (TATA / Forage)</tspan></text></g><g clip-path="url(#lc13)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Cert</tspan><tspan class="cc">.</tspan><tspan class="key">02</tspan><tspan class="cc">: .......... </tspan><tspan class="value">Career in IT &amp; AI Webinar</tspan></text></g><g clip-path="url(#lc14)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="352" class="cc">. </tspan><tspan class="key">Cert</tspan><tspan class="cc">.</tspan><tspan class="key">03</tspan><tspan class="cc">: .......... </tspan><tspan class="value">IT-Festa Tech Symposium</tspan></text></g><g clip-path="url(#lc15)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="374" class="cc">. </tspan></text></g><g clip-path="url(#lc16)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="396" class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g><g clip-path="url(#lc17)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="418" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Mail</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Bhoivishal67@gmail.com</tspan></text></g><g clip-path="url(#lc18)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="440" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................... </tspan><tspan class="value">linkedin.com/in/vishal-bhoi</tspan></text></g><g clip-path="url(#lc19)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="462" class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Vishalbhoi67</tspan></text></g><g clip-path="url(#lc20)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="484" class="cc">. </tspan></text></g><g clip-path="url(#lc21)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="506" class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></text></g>
+
+  <rect x="634" y="491.0" width="9" height="16" class="cursor-blink" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.66s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<line class="scan-laser" x1="18" y1="0" x2="1162" y2="0" stroke="#00F0FF" stroke-width="2" opacity="0.55" style="mix-blend-mode:screen">
+  <animateTransform attributeName="transform" type="translate" from="0 35" to="0 620" dur="5s" repeatCount="indefinite"/>
+</line>
+
+<rect x="3" y="3" width="1174" height="604" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+</svg>
