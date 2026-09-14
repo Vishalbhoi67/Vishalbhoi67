@@ -1,57 +1,26 @@
-<!-- 1. HERO — TERMINAL PROFILE BANNER ─────────────────────────────── -->
-<p align="center">
-  <img src="./dark.svg" alt="Vishal Bhoi Profile" width="100%">
-</p>
+<div align="center">
+  <img src="./dark.svg" alt="Vishal Bhoi Terminal" width="100%">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Vishalbhoi67&color=00f0ff&style=flat-square" alt="Profile Views">
+</div>
 
-<!-- 2. PROFILE VIEWS COUNTER BADGE ────────────────────────────────── -->
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishalbhoi67&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
-</p>
-<br/>
+<br>
 
-<hr/>
+<div align="center">
+  <h3>⚡ Tech Stack & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,firebase,git,github,vscode,linux" alt="Tech Stack">
+</div>
 
-<!-- 3. TECH STACK & TOOLS ─────────────────────────────────────────── -->
-<br/>
-<h2 align="center">⚡ Tech Stack &amp; Tools</h2>
-<br/>
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="46" height="46"/>
-</p>
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalbhoi67&theme=dark&background=0d1117&border=00f0ff&stroke=00f0ff" alt="Streak Stats" width="480">
+</div>
 
-<br/>
-<hr/>
+<br>
 
-<!-- 4. GITHUB STATS ───────────────────────────────────────────────── -->
-<br/>
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalbhoi67&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<br/>
-<hr/>
-
-<!-- 5. JET HEATMAP ANIMATION ──────────────────────────────────────── -->
-<br/>
-<h2 align="center">✈️ Contribution Heatmap</h2>
-<br/>
-
-<p align="center">
-  <img src="./dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%">
-</p>
-
-<br/>
+<div align="center">
+  <h3>✈️ Contribution Heatmap</h3>
+  <img src="./dist/github-jet.svg" alt="Contribution Heatmap" width="100%">
+</div>
