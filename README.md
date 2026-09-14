@@ -14,6 +14,6 @@
 ---
 
 <div align="center">
-  <h3>✈️ Contribution Heatmap</h3>
+  <h3>🐍 Contribution Heatmap</h3>
   <img src="./dist/github-jet.svg" alt="Contribution Heatmap" width="100%">
 </div>
